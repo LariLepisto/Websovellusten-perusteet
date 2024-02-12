@@ -1,0 +1,15 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+#dice {
+    text-align: center;
+}
+
+#dice img {
+    display: block; 
+    margin: 0 auto; 
+}
